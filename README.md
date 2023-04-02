@@ -1,2 +1,2 @@
-# -AcmeBookStore_SPA
+# AcmeBookStore_SPA
 learn abp
